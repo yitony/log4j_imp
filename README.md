@@ -1,2 +1,3 @@
 # log4j_imp
-log4j
+
+简单的log4j小测试项目
